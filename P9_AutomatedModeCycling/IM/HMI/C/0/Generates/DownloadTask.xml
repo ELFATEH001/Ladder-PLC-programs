@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="15.1.0.0"
+    CreationTime="2024-08-26 14:09:37 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="PLCII_Pro9.HMI_1[TP700 Comfort]"
+    RtProjectFolderName="PLCII_Pro9.HMI_1[TP700 Comfort]"
+    DeviceType="TP700 Comfort"
+    DisplayOrientation="0"
+    RTReleaseNo="15.1.0.0"
+    ImageReleaseNo="15.1.0.0"
+    RTCV="15.1.0.0"
+    PRCV="15.1.0.0"
+    FirmwareFileName="CP_7_9\15.1.0.0\CP_7_9_12_V15_1.fwf"
+    RuntimeFileName="CP_7_9\15.1.0.0\CP_7_9_12_V15_1.ruf"
+    RuntimeAddonFolderName="CP_7_9" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <FullDownload>DeviceSettings.hsf</FullDownload>
+</DownloadTask>
