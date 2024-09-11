@@ -1,5 +1,22 @@
 # TIA Portal Projects Collection
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [System Requirements](#system-requirements)
+- [Project Files](#project-files)
+- [How to Use the Projects](#how-to-use-the-projects)
+  - [1. Open the Project](#1-open-the-project)
+  - [2. Monitoring and Debugging](#2-monitoring-and-debugging)
+  - [3. Running the Simulation](#3-running-the-simulation)
+  - [4. Exporting and Logging Data](#4-exporting-and-logging-data)
+  - [5. Modifying the Project](#5-modifying-the-project)
+- [Troubleshooting](#troubleshooting)
+- [Reporting Issues and Suggestions for Improvement](#reporting-issues-and-suggestions-for-improvement)
+  - [Error Reporting](#error-reporting)
+  - [Suggestions for Improvement](#suggestions-for-improvement)
+- [Conclusion](#conclusion)
+
 ## Introduction
 Welcome to this collection of TIA Portal projects! These projects have been designed to demonstrate various industrial automation solutions and PLC programming techniques. To ensure a smooth experience, please follow the instructions provided below.
 
